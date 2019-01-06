@@ -1,17 +1,18 @@
-www.spiegelgruppe.de
-tippspiel.spiegel.de
-www.spiegel.tv
-www.bento.de
-advent.spiegel.de
-track.noz.de
-ad.atdmt.com
-m.exactag.com
-cdn.mateti.net
-tarifrechner.heise.de
-upscore.com
-hit-pool.upscore.com
-www.erwinsdate.com
-wb.messengerpeople.com
-files.upscore.com
-tracker.leechers-paradise.org
-open.demonii.com
+127.0.0.1	www.spiegelgruppe.de
+127.0.0.1	tippspiel.spiegel.de
+127.0.0.1	www.spiegel.tv
+127.0.0.1	www.bento.de
+127.0.0.1	advent.spiegel.de
+127.0.0.1	track.noz.de
+127.0.0.1	ad.atdmt.com
+127.0.0.1	m.exactag.com
+127.0.0.1	cdn.mateti.net
+127.0.0.1	tarifrechner.heise.de
+127.0.0.1	upscore.com
+127.0.0.1	hit-pool.upscore.com
+127.0.0.1	www.erwinsdate.com
+127.0.0.1	wb.messengerpeople.com
+127.0.0.1	files.upscore.com
+127.0.0.1	tracker.leechers-paradise.org
+127.0.0.1	open.demonii.com
+127.0.0.1	cdn.podigee.com
