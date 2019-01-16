@@ -16,3 +16,6 @@
 127.0.0.1	tracker.leechers-paradise.org
 127.0.0.1	open.demonii.com
 127.0.0.1	cdn.podigee.com
+127.0.0.1	consentcdn.cookiebot.com
+127.0.0.1	consent.cookiebot.com
+
